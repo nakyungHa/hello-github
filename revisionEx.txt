@@ -1,2 +1,4 @@
 This is the example of use 
 restore(이전 커밋상태로 되돌리기)
+------------
+이제 이 부분부터는 커밋 이후 수정된 부분입니다.
