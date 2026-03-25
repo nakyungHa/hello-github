@@ -1,0 +1,2 @@
+This is the example of use 
+restore(이전 커밋상태로 되돌리기)
